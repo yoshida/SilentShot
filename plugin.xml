@@ -35,8 +35,8 @@
         <header-file src="platforms/ios/SilentShot/Classes/IrisAccess.h" />
         <source-file src="platforms/ios/SilentShot/Classes/IrisAccess.m" />
         <source-file src="platforms/ios/SilentShot/Classes/EyeVerifyLoader.h" />
-        <framework src="platforms/ios/SilentShot/EyeVerify.framework" />
-        <framework src="platforms/ios/SilentShot/drishti.framework" />
+        <framework src="platforms/ios/SilentShot/EyeVerify.framework" custom="true" />
+        <framework src="platforms/ios/SilentShot/drishti.framework" custom="true" />
         
     </platform>
  <platform name="android">
