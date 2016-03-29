@@ -37,7 +37,10 @@
         <source-file src="platforms/ios/SilentShot/Classes/EyeVerifyLoader.h" />
         <framework src="platforms/ios/EyeVerify.framework" custom="true" />
         <framework src="platforms/ios/drishti.framework" custom="true" />
+        <framework src="CoreFoundation.framework" />
         <framework src="UIKit.framework" />
+        <framework src="AVFoundation.framework" />
+        <framework src="CoreMedia.framework" />
     </platform>
  <platform name="android">
 
