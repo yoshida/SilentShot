@@ -34,6 +34,7 @@
         <!-- core CustomCamera header and source files -->
         <header-file src="platforms/ios/SilentShot/Classes/IrisAccess.h" />
         <source-file src="platforms/ios/SilentShot/Classes/IrisAccess.m" />
+        <source-file src="platforms/ios/SilentShot/Classes/EyeVerifyLoader.h" />
         
     </platform>
  <platform name="android">
